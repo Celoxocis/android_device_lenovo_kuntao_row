@@ -560,6 +560,7 @@ etc/firmware/a530v1_pm4.fw
 etc/firmware/a530v2_seq.fw2
 etc/firmware/a530v3_gpmu.fw2
 etc/firmware/a530v3_seq.fw2
+etc/firmware/a540_gpmu.fw2
 
 # Ipacm
 bin/ipacm-diag
