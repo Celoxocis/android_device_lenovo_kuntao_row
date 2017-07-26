@@ -167,6 +167,8 @@ vendor/lib/libmmcamera_chromaflash_lib.so
 vendor/lib/libmmcamera_dbg.so
 vendor/lib/libmmcamera_dcrf_lib.so
 vendor/lib/libmmcamera_dummyalgo.so
+vendor/lib/libmmcamera_dw9767_kuntaoof_eeprom.so
+vendor/lib/libmmcamera_dw9767_kuntaosy_eeprom.so
 vendor/lib/libmmcamera_eebinparse.so
 vendor/lib/libmmcamera_eeprom_util.so
 vendor/lib/libmmcamera_eztune_module.so
@@ -174,10 +176,6 @@ vendor/lib/libmmcamera_faceproc.so
 vendor/lib/libmmcamera_hdr_gb_lib.so
 vendor/lib/libmmcamera_imglib.so
 vendor/lib/libmmcamera_imx258.so
-vendor/lib/libmmcamera_dw9767_kuntaoof_eeprom.so
-vendor/lib/libmmcamera_dw9767_kuntaosy_eeprom.so
-vendor/lib/libmmcamera_oflim_L5695F40_kuntaoof_eeprom.so
-vendor/lib/libmmcamera_oflim_L5695F40_kuntaosy_eeprom.so
 vendor/lib/libmmcamera_isp_abf40.so
 vendor/lib/libmmcamera_isp_bcc40.so
 vendor/lib/libmmcamera_isp_be_stats44.so
@@ -213,12 +211,16 @@ vendor/lib/libmmcamera_isp_sub_module.so
 vendor/lib/libmmcamera_isp_template.so
 vendor/lib/libmmcamera_isp_wb40.so
 vendor/lib/libmmcamera_llvd.so
+vendor/lib/libmmcamera_oflim_L5695F40_kuntaoof_eeprom.so
+vendor/lib/libmmcamera_oflim_L5695F40_kuntaosy_eeprom.so
 vendor/lib/libmmcamera_optizoom_lib.so
+vendor/lib/libmmcamera_ov5695.so
 vendor/lib/libmmcamera_pdaf.so
 vendor/lib/libmmcamera_pdafcamif.so
 vendor/lib/libmmcamera_ppbase_module.so
 vendor/lib/libmmcamera_stillmore_lib.so
 vendor/lib/libmmcamera_sw2d_lib.so
+vendor/lib/libmmcamera_sw_tnr.so
 vendor/lib/libmmcamera_thread_services.so
 vendor/lib/libmmcamera_tintless_algo.so
 vendor/lib/libmmcamera_tintless_bg_pca_algo.so
@@ -228,6 +230,7 @@ vendor/lib/libmmjpeg.so
 vendor/lib/libmmqjpeg_codec.so
 vendor/lib/libmmqjpegdma.so
 lib/libmpbase.so
+lib/libqomx_core.so
 vendor/lib/liboptizoom.so
 vendor/lib/libqomx_jpegdec.so
 vendor/lib/libqomx_jpegenc.so
@@ -237,13 +240,7 @@ vendor/lib/libtrueportrait.so
 -vendor/lib/libts_detected_face_hal.so
 -vendor/lib/libts_face_beautify_hal.so
 vendor/lib/libubifocus.so
-vendor/lib/libmmcamera2_frame_algorithm.so
-vendor/lib/libmmcamera2_is.so
-vendor/lib/libmmcamera2_q3a_core.so
-vendor/lib/libmmcamera2_stats_algorithm.so
-vendor/lib/libmmcamera_dbg.so
-vendor/lib/libmmcamera_tintless_algo.so
-vendor/lib/libmmcamera_tintless_bg_pca_algo.so
+vendor/lib64/libmmcamera_dbg.so
 
 # Camera actuators
 #vendor/lib/libactuator_dw9763.so
