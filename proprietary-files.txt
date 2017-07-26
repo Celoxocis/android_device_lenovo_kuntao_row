@@ -336,26 +336,11 @@ vendor/lib/libchromatix_ov5695_kuntaosy_zsl_preview.so
 vendor/lib/libchromatix_ov5695_kuntaosy_zsl_video.so
 
 # Camera configs
-#etc/camera/camera_config.xml|3ddeec17d6a58951a3fdf068b3aba9b9f370da3a
-#etc/camera/csidtg_camera.xml
-#etc/camera/csidtg_chromatix.xml
-#etc/camera/imx258_bear_chromatix.xml
-#etc/camera/imx258_chromatix.xml
-#etc/camera/imx258_mono_bear_chromatix.xml
-#etc/camera/imx258_mono_chromatix.xml
-#etc/camera/imx258_ofilm_chromatix.xml
-#etc/camera/imx258_qtech_chromatix.xml
-#etc/camera/imx258_sunny_chromatix.xml
-#etc/camera/ov13855_qtech_chromatix.xml
-#etc/camera/s5k3l8_chromatix.xml
-#etc/camera/s5k3l8_f3l8yam_chromatix.xml
-#etc/camera/s5k3l8_mono_chromatix.xml
-#etc/camera/s5k3l8_ofilm_chromatix.xml
-#etc/camera/s5k3l8_qtech_chromatix.xml
-#etc/camera/s5k3l8_sunny_chromatix.xml
-#etc/camera/s5k5e8_ofilm_chromatix.xml
-#etc/camera/s5k5e8_qtech_chromatix.xml
-#etc/camera/s5k5e8_sunny_chromatix.xml
+etc/camera/imx258_kuntaoof_chromatix.xml
+etc/camera/imx258_kuntaosy_chromatix.xml
+etc/camera/lenovo_kuntao_camera.xml
+etc/camera/ov5695_kuntaoof_chromatix.xml
+etc/camera/ov5695_kuntaosy_chromatix.xml
 
 # Camera firmware
 etc/firmware/cpp_firmware_v1_10_0.fw
