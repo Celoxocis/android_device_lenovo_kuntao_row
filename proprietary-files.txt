@@ -243,14 +243,8 @@ vendor/lib/libubifocus.so
 vendor/lib64/libmmcamera_dbg.so
 
 # Camera actuators
-#vendor/lib/libactuator_dw9763.so
-#vendor/lib/libactuator_dw9763_ofilm_imx258.so
-#vendor/lib/libactuator_dw9763_qtech_imx258.so
-#vendor/lib/libactuator_dw9763_qtech_ov13855.so|fdbb63ff8979dbedb661c3c2cb7d827cb9d84762
-#vendor/lib/libactuator_dw9763_sunny_imx258.so
-#vendor/lib/libactuator_lc898212xd_qc2002.so
-#vendor/lib/libactuator_ofilm_dw9763.so
-#vendor/lib/libactuator_pseudo.so
+vendor/lib/libactuator_dw9767_kuntaoof.so
+vendor/lib/libactuator_dw9767_kuntaosy.so
 
 # Camera chromatix
 vendor/lib/libchromatix_csidtg_common.so
