@@ -784,6 +784,20 @@ vendor/lib/libTimeService.so
 -vendor/lib64/libtime_genoff.so
 vendor/lib64/libTimeService.so
 
+# Touchscreen
+etc/firmware/synaptics-s3508-16080201-kuntao.tdat
+etc/firmware/synaptics-s3508-16071507-kuntao.tdat
+etc/firmware/synaptics-s3508sga-16082202-kuntao.tdat
+etc/firmware/synaptics-s3508sga-16071507-kuntao.tdat
+etc/firmware/synaptics-s3508-16082202-kuntao.tdat
+etc/firmware/synaptics-s3508-16081202-kuntao.tdat
+etc/firmware/synaptics-s3508sga-16060806-kuntao.tdat
+etc/firmware/synaptics-s3508sga-16062306-kuntao.tdat
+etc/firmware/synaptics-s3508sga-16081202-kuntao.tdat
+etc/firmware/synaptics-s3508-16062306-kuntao.tdat
+etc/firmware/synaptics-s3508sga-16080201-kuntao.tdat
+etc/firmware/synaptics-s3508-16060806-kuntao.tdat
+
 # USB
 etc/firmware/ice40.bin
 
