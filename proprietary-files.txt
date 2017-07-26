@@ -399,8 +399,7 @@ vendor/lib64/libssd.so
 vendor/lib64/libtzdrmgenprov.so
 
 # Display calibration
-#-etc/qdcm_calib_data_nt35532_fhd_video_mode_dsi_panel.xml
-#-etc/qdcm_calib_data_nt35596_tianma_fhd_video_mode_dsi_panel.xml
+-etc/qdcm_calib_data_mipi_mot_cmd_smd_1080p_549.xml
 
 # Fingerprint
 #bin/gx_fpd
