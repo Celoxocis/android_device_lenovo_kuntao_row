@@ -808,7 +808,9 @@ vendor/lib/libWVStreamControlAPI_L3.so
 vendor/lib/libwvdrm_L3.so
 vendor/lib/mediadrm/libwvdrmengine.so
 
-# Wi-Fi
+# WCNSS
 bin/cnss-daemon
 bin/cnss_diag
 bin/wcnss_service
+etc/firmware/wlan/prima/WCNSS_qcom_wlan_nv_lenovo.bin
+etc/firmware/wlan/prima/WCNSS_wlan_dictionary_lenovo.dat
